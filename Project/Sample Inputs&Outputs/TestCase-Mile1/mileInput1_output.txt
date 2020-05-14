@@ -1,0 +1,17 @@
+NAME                    LEVEL   SCHOOL          CASTING_TIME    RANGE                   COMPONENTS                                              DURATION
+Sleep                   1       Enchantment     6 seconds       90 feet                 V,S,M(a pinch of fine sand,rose petals, or a cricket)   1 minute
+Speak With Pants        3       Transmutation   6 seconds       Self(30 foot radius)    V,S                                                     10 minutes
+Fly                     3       Transmutation   6 seconds       Touch                   V,S,M(a wing feather from any bird)                     Concentration, up to 10 minutes
+Fire Bolt               0       Evocation       6 seconds       120 feet                V,S                                                     Instananeous
+
+ID      NAME                    TYPE            RARITY          PRICE
+42700   Cloak of Protection     Wondrous Item   Uncommon        400
+111     Periapt of Health       Wondrous Item   Uncommon        250
+298     Bracers of Archery      Wondrous Item   Uncommon        350
+43      Staff of Frost          Staff           Very Rare       56250
+
+ID      NAME                    RACE            LEVEL   CLASS   DEBT
+20000   Basher                  Kenku           2       Fighter 40
+1       Vax'ildan               Half-Elf        20      Rogue   -20000
+12      Torgga Orcfoe           Dwarf           3       Cleric  0
+4       Lamlis Cithreth         Half-Elf        4       Rogue   50000

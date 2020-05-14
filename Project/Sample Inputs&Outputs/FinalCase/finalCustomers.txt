@@ -1,0 +1,7 @@
+ID
+ID,NAME,RACE,LEVEL,CLASS,DEBT
+201|Melanippe|Centaur|3|Ranger|100
+89|Grigor Kulenov|Water Genasi|2|Wizard|5555
+12345|Nesalli|Yuan-Ti|8|Paladin|754
+58|Vanuath|Firbolg|12|Artificer|489652
+892|Sazza|Goblin|8|Paladin|0

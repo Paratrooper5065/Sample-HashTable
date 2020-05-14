@@ -1,0 +1,7 @@
+finalSpells.txt spells
+finalItems.txt items
+finalCustomers.txt customers
+
+DISPLAY()
+PROJECT(SELECT((*|*|*|Uncommon|*),items),NAME|RARITY|PRICE)
+PROJECT(SELECT((892|Sazza|Goblin|8|Paladin|0),customers),NAME|CLASS|DEBT)

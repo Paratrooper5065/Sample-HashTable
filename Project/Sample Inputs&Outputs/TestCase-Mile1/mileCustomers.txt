@@ -1,0 +1,6 @@
+ID
+ID,NAME,RACE,LEVEL,CLASS,DEBT
+4|Lamlis Cithreth|Half-Elf|4|Rogue|50000
+12|Torgga Orcfoe|Dwarf|3|Cleric|0
+1|Vax'ildan|Half-Elf|20|Rogue|-20000
+20000|Basher|Kenku|2|Fighter|40

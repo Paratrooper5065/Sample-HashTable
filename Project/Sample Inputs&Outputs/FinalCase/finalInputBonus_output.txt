@@ -1,0 +1,25 @@
+NAME                    LEVEL   SCHOOL          CASTING_TIME    RANGE           COMPONENTS                                                              DURATION
+Guidance                0       Illusion        6 seconds       Touch           V,S                                                                     Concentation, up to 1 minute
+Ice Storm               4       Evocation       6 seconds       300 feet        V,S,M(a pinch of dust and a few drops of water)                         Instantaneous
+Invisibility            2       Illusion        6 second        Touch           V,S,M(an eyelash encased in gum arabic)                                 Concentation, up to 1 hour
+Magic Circle            3       Abjuration      1 minute        10 feet         V,S,M(holy water or powdered silver and iron worth at least 100 gp)     1 hour
+
+ID      NAME                    TYPE            RARITY          PRICE
+456     Ersatz Eye              Wondrous Item   Common          75
+5201    Spider Staff            Staff           Rare            2200
+109     Immovable Rod           Rod             Uncommon        500
+12      Mithral Armor           Armor           Uncommon        450
+
+ID      NAME                    RACE            LEVEL   CLASS           DEBT
+892     Sazza                   Goblin          8       Paladin         0
+58      Vanuath                 Firbolg         12      Artificer       489652
+12345   Nesalli                 Yuan-Ti         8       Paladin         754
+89      Grigor Kulenov          Water Genasi    2       Wizard          5555
+201     Melanippe               Centaur         3       Ranger          100
+
+NAME		RARITY		PRICE
+Mithral Armor	Uncommon	450
+Immovable Rod	Uncommon	500
+
+NAME	CLASS	DEBT
+Sazza	Paladin	0

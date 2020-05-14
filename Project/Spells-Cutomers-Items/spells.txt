@@ -1,0 +1,8 @@
+NAME
+NAME,LEVEL,SCHOOL,CASTING_TIME,RANGE,COMPONENTS,DURATION
+Fire Bolt|0|Evocation|6 seconds|120 feet|V,S|Instananeous
+Fly|3|Transmutation|6 seconds|Touch|V,S,M(a wing feather from any bird)|Concentration, up to 10 minutes
+Sleep|1|Enchantment|6 seconds|90 feet|V,S,M(a pinch of fine sand,rose petals, or a cricket)|1 minute
+Grease|1|Conjuratin|6 seconds|60 feet|V,S,M(a bit of pork rind or butter)|1 minute
+Modify Memory|5|Enchantment|6 seconds|30 feet|V,S|Concentation, up to 1 minute
+Speak With Pants|3|Transmutation|6 seconds|Self(30 foot radius)|V,S|10 minutes

@@ -1,0 +1,6 @@
+NAME
+NAME,LEVEL,SCHOOL,CASTING_TIME,RANGE,COMPONENTS,DURATION
+Magic Circle|3|Abjuration|1 minute|10 feet|V,S,M(holy water or powdered silver and iron worth at least 100 gp)|1 hour
+Invisibility|2|Illusion|6 second|Touch|V,S,M(an eyelash encased in gum arabic)|Concentation, up to 1 hour
+Ice Storm|4|Evocation|6 seconds|300 feet|V,S,M(a pinch of dust and a few drops of water)|Instantaneous
+Guidance|0|Illusion|6 seconds|Touch|V,S|Concentation, up to 1 minute

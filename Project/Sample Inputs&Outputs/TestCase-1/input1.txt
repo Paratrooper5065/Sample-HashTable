@@ -1,0 +1,18 @@
+spells.txt spells
+items.txt items
+customers.txt customers
+
+DISPLAY()
+INSERT((Wish|9|Conjuration|6 seconds|Self|V|Instananeous),spells)
+INSERT((16|Laumnovel|Human|12|Wizard|1000000),customers)
+INSERT((185|Ring of Healing|Ring|Uncommon|250),items)
+UPDATE((Grease|1|Conjuration|6 seconds|60 feet|V,S,M(a bit of pork rind or butter)|1 minute),spells)
+UPDATE((48|Staff of Flame|Staff|Very Rare|56250),items)
+SELECT((Sleep|1|Enchantment|6 seconds|90 feet|V,S,M(a pinch of fine sand,rose petals, or a cricket)|1 minute),spells)
+SELECT((*|*|*|Uncommon|*),items)
+SELECT((*|*|Dragonborne|*|Rogue|*),customers)
+DELETE((Speak With Pants|3|Transmutation|6 seconds|Self(30 foot radius)|V,S|10 minutes),spells)
+DELETE((*|*|*|*|Rogue|*),customers)
+DELETE((*|*|Weapon|*|*),items)
+DISPLAY()
+WRITE()

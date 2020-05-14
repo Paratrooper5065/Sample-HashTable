@@ -1,0 +1,6 @@
+ID
+ID,NAME,TYPE,RARITY,PRICE
+43|Staff of Frost|Staff|Very Rare|56250
+298|Bracers of Archery|Wondrous Item|Uncommon|350
+111|Periapt of Health|Wondrous Item|Uncommon|250
+42700|Cloak of Protection|Wondrous Item|Uncommon|400

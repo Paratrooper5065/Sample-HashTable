@@ -1,0 +1,19 @@
+finalItems.txt items
+finalCustomers.txt customers
+finalSpells.txt spells
+
+DISPLAY()
+INSERT((109|Blackstaff|Staff|Legendary|72000),items)
+UPDATE((109|Blackstaff|Staff|Legendary|72000),items)
+INSERT((45|Temur|Aasimar|9|Barbarian|0),customers)
+UPDATE((Guidance|0|Divination|6 seconds|Touch|V,S|Concentation, up to 1 minute),spells)
+SELECT((201|Melanippe|Centaur|3|Ranger|100),customers)
+DELETE((109|Blackstaff|Staff|Legendary|72000),items)
+SELECT((*|*|Illusion|*|*|*|*),spells)
+INSERT((Mislead|5|Illusion|6 seconds|Self|S|Concentation, up to 1 hour),spells)
+UPDATE((Misled|5|Illusion|6 seconds|Self|S|Concentation, up to 1 hour),spells)
+DELETE((*|*|*|*|Paladin|*),customers)
+SELECT((*|*|*|Legendary|*),items)
+DELETE((Invincibility|*|*|*|*|*|*),spells)
+DISPLAY()
+WRITE()

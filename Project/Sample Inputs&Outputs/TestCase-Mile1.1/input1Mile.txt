@@ -1,0 +1,5 @@
+spells.txt spells
+items.txt items
+customers.txt customers
+
+DISPLAY()

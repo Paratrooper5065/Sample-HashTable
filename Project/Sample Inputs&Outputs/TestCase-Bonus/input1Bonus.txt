@@ -1,0 +1,7 @@
+spells.txt spells
+items.txt items
+customers.txt customers
+
+PROJECT(SELECT((Sleep|1|Enchantment|6 seconds|90 feet|V,S,M(a pinch of fine sand,rose petals, or a cricket)|1 minute),spells),NAME|SCHOOL|LEVEL)
+PROJECT(SELECT((*|*|*|Uncommon|*),items),NAME|PRICE)
+DISPLAY()

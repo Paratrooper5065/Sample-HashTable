@@ -1,0 +1,6 @@
+ID
+ID,NAME,TYPE,RARITY,PRICE
+12|Mithral Armor|Armor|Uncommon|450
+109|Immovable Rod|Rod|Uncommon|500
+5201|Spider Staff|Staff|Rare|2200
+456|Ersatz Eye|Wondrous Item|Common|75
